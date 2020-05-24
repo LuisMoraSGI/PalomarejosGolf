@@ -1,0 +1,69 @@
+{
+  "vuelta2": {
+    "hoyo": [
+      {
+        "num": "10",
+        "metros": "352 m",
+        "par": "4",
+        "Handicap": "14",
+        "foto": "../imagenes/hoyo10.PNG"
+      },
+      {
+        "num": "11",
+        "metros": "392 m",
+        "par": "4",
+        "Handicap": "2",
+        "foto": "../imagenes/hoyo11.PNG"
+      },
+      {
+        "num": "12",
+        "metros": "274 m",
+        "par": "4",
+        "Handicap": "18",
+        "foto": "../imagenes/hoyo12.PNG"
+      },
+      {
+        "num": "13",
+        "metros": "182 m",
+        "par": "3",
+        "Handicap": "13",
+        "foto": "../imagenes/hoyo13.PNG"
+      },
+      {
+        "num": "14",
+        "metros": "454 m",
+        "par": "5",
+        "Handicap": "3",
+        "foto": "../imagenes/hoyo14.PNG"
+      },
+      {
+        "num": "15",
+        "metros": "373 m",
+        "par": "4",
+        "Handicap": "1",
+        "foto": "../imagenes/hoyo15.PNG"
+      },
+      {
+        "num": "16",
+        "metros": "191 m",
+        "par": "3",
+        "Handicap": "7",
+        "foto": "../imagenes/hoyo16.PNG"
+      },
+      {
+        "num": "17",
+        "metros": "350 m",
+        "par": "4",
+        "Handicap": "4",
+        "foto": "../imagenes/hoyo17.PNG"
+      },
+      {
+        "num": "18",
+        "metros": "330 m",
+        "par": "4",
+        "Handicap": "6",
+        "foto": "../imagenes/hoyo18.PNG"
+      }
+    ]
+  }
+}

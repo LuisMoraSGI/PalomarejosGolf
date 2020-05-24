@@ -1,0 +1,271 @@
+/* Elementos principales de la página */
+
+body
+{
+    background-image: url('../imagenes/fondo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: black;
+    width: 100%;
+    height: 100%;
+}
+
+#contenedor
+{
+    width: 900px;
+    margin: auto;
+}
+
+section h1, footer h1, nav a
+{
+    font-family: Dayrom, serif;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+/* Encabezado */
+
+header
+{
+    background: url('images/line.png') repeat-x bottom;
+}
+
+#titulo
+{
+    display: inline-block;
+}
+
+header h1
+{
+    font-family: 'BallparkWeiner', serif;
+    font-size: 2.5em;
+    font-weight: normal;
+}
+
+#logo, header h1
+{
+    display: inline-block;
+    margin-bottom: 0px;
+}
+
+header h2
+{
+    font-family: Dayrom, serif;
+    font-size: 1.1em;
+    margin-top: 0px;
+    font-weight: normal;
+}
+
+/* Navegación */
+
+nav
+{
+    display: inline-block;
+    width: 740px;
+    text-align: right;
+}
+
+nav ul
+{
+    list-style-type: none;
+}
+
+nav li
+{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+nav a
+{
+    font-size: 1.3em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+nav a:hover
+{
+    color: #14943a;
+    border-bottom: 3px solid #48a124;
+}
+
+/* Banner */
+
+#cont_banner
+{
+    margin-top: 15px;
+    height: 200px;
+    border-radius: 5px;
+    background: url('../imagenes/escuela.PNG') no-repeat;
+    position: relative;
+    box-shadow: 0px 4px 4px #1c1a19;
+    margin-bottom: 25px;
+}
+
+#cont_banner_dentro
+{
+    position: absolute;
+    bottom: 0;
+    border-radius: 0px 0px 5px 5px;
+    width: 99.5%;
+    height: 33px;
+    padding-top: 15px;
+    padding-left: 4px;
+    background-color: rgb(24,24,24); /* Los navegadores antiguos leerán esto */
+    background-color: rgba(24,24,24,0.8); /* Los navegadores nuevos leerán esto */
+    color: white;
+    font-size: 0.8em;
+}
+
+.swing
+{
+    display: inline-block;
+    height: 25px;
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    border: 1px solid rgb(30, 107, 20);
+    border-radius: 5px;
+    font-size: 1.2em;
+    text-align: center;
+    padding: 3px 8px 0px 8px;
+    color: white;
+    text-decoration: none;
+}
+
+.swing img
+{
+    border: 0;
+}
+
+/* Cuerpo */
+
+article, aside
+{
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+}
+
+article
+{
+    width: 625px;
+    margin-right: 15px;
+}
+
+.cat_icon
+{
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+article p
+{
+    font-size: 0.8em;
+}
+.bolita{
+    height: 3em;
+    width: 3em;
+}
+aside
+{
+    position: relative;
+    width: 235px;
+    background-color: #2c662a;
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-size: 0.9em;
+}
+
+#arrow
+{
+    position: absolute;
+    top: 100px;
+    left: -12px;
+}
+
+#casaclub
+{
+    text-align: center;
+}
+
+#casaclub img
+{
+    height: 10em;
+    width: 15em;
+    border: 1px solid #181818;
+}
+
+aside img
+{
+    margin-right: 5px;
+}
+
+/* Iconos de redes sociales */
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+
+/* Style XML */
+
+.imgequipo{
+    width:250px;
+    height:250px;
+}
+.hoyos{
+    width:250px;
+    height:250px;
+}
+
+th , td{
+    border: solid 0.3em rgb(26, 128, 26);
+    padding: 1.5em;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+tr:hover{
+    background-image: url('../imagenes/fondotabla.PNG');
+    background-size: cover;
+    background-repeat: no-repeat;
+}

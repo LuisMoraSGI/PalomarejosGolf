@@ -1,0 +1,69 @@
+{
+  "equipo": {
+    "persona": [
+      {
+        "nombre": "Beatriz",
+        "apellidos": "Hesse",
+        "puesto": "Gerente",
+        "edad": "45",
+        "foto": "../imagenes/beatriz.PNG"
+      },
+      {
+        "nombre": "Ernesto",
+        "apellidos": "González",
+        "puesto": "Director Deportivo",
+        "edad": "37",
+        "foto": "../imagenes/ernesto.PNG"
+      },
+      {
+        "nombre": "Salvador",
+        "apellidos": "Martinez",
+        "puesto": "Master Caddie",
+        "edad": "25",
+        "foto": "../imagenes/salva.png"
+      },
+      {
+        "nombre": "Javier",
+        "apellidos": "Fuentes",
+        "puesto": "Greenkeeper",
+        "edad": "52",
+        "foto": "../imagenes/jesusjar.png"
+      },
+      {
+        "nombre": "Gabriel",
+        "apellidos": "Santos",
+        "puesto": "Profesor Escuela",
+        "edad": "32",
+        "foto": "../imagenes/gabi.png"
+      },
+      {
+        "nombre": "Rubén",
+        "apellidos": "Soria",
+        "puesto": "Asistente en Tienda",
+        "edad": "23",
+        "foto": "../imagenes/ruben.png"
+      },
+      {
+        "nombre": "Roldan",
+        "apellidos": "Pardo",
+        "puesto": "Jardinero",
+        "edad": "20",
+        "foto": "../imagenes/roland.png"
+      },
+      {
+        "nombre": "Juan",
+        "apellidos": "Oliva",
+        "puesto": "Jardinero",
+        "edad": "31",
+        "foto": "../imagenes/juan.png"
+      },
+      {
+        "nombre": "Jesús",
+        "apellidos": "Garrido",
+        "puesto": "Jardinero",
+        "edad": "37",
+        "foto": "../imagenes/jesus.png"
+      }
+    ]
+  }
+}

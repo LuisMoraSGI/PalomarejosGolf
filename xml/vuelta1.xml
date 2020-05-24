@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE vuelta1 SYSTEM "E:\ASIR\Trabajo Final SGI\xml\vuelta1.dtd">
+<?xml-stylesheet type="text/xsl" href="../xslt/vuelta1.xslt"?>
+<vuelta1>
+	<hoyo>
+		<num>1</num>
+		<metros>372 m</metros>
+		<par>4</par>
+		<Handicap>5</Handicap>
+		<foto>../imagenes/hoyo1.PNG</foto>
+	</hoyo>
+	<hoyo>
+		<num>2</num>
+		<metros>143 m</metros>
+		<par>3</par>
+		<Handicap>15</Handicap>
+		<foto>../imagenes/hoyo2.PNG</foto>
+	</hoyo>
+	<hoyo>
+		<num>3</num>
+		<metros>355 m</metros>
+		<par>4</par>
+		<Handicap>8</Handicap>
+		<foto>../imagenes/hoyo3.PNG</foto>
+	</hoyo>
+	<hoyo>
+		<num>4</num>
+		<metros>135 m</metros>
+		<par>3</par>
+		<Handicap>17</Handicap>
+		<foto>../imagenes/hoyo4.PNG</foto>
+	</hoyo>
+	<hoyo>
+		<num>5</num>
+		<metros>455</metros>
+		<par>5</par>
+		<Handicap>9</Handicap>
+		<foto>../imagenes/hoyo5.PNG</foto>
+	</hoyo>
+	<hoyo>
+		<num>6</num>
+		<metros>338 m</metros>
+		<par>4</par>
+		<Handicap>10</Handicap>
+		<foto>../imagenes/hoyo6.PNG</foto>
+	</hoyo>
+	<hoyo>
+		<num>7</num>
+		<metros>458 m</metros>
+		<par>5</par>
+		<Handicap>11</Handicap>
+		<foto>../imagenes/hoyo7.PNG</foto>
+	</hoyo>
+	<hoyo>
+		<num>8</num>
+		<metros>301 m</metros>
+		<par>4</par>
+		<Handicap>16</Handicap>
+		<foto>../imagenes/hoyo8.PNG</foto>
+	</hoyo>
+	<hoyo>
+		<num>9</num>
+		<metros>473 m</metros>
+		<par>5</par>
+		<Handicap>12</Handicap>
+		<foto>../imagenes/hoyo9.PNG</foto>
+	</hoyo>
+</vuelta1>

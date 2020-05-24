@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT num (#PCDATA)>
+<!ELEMENT par (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>
+<!ELEMENT hoyo (num, metros, par, Handicap, foto)>
+<!ELEMENT metros (#PCDATA)>
+<!ELEMENT vuelta1 (hoyo+)>
+<!ELEMENT Handicap (#PCDATA)>

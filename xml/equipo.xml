@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE equipo SYSTEM "E:\ASIR\Trabajo Final SGI\xml\equipo.dtd">
+<?xml-stylesheet type="text/xsl" href="../xslt/equipo.xslt"?>
+<equipo>
+	<persona>
+		<nombre>Beatriz</nombre>
+		<apellidos>Hesse</apellidos>
+		<puesto>Gerente</puesto>
+		<edad>45</edad>
+		<foto>../imagenes/beatriz.PNG</foto>
+	</persona>
+	<persona>
+		<nombre>Ernesto</nombre>
+		<apellidos>González</apellidos>
+		<puesto>Director Deportivo</puesto>
+		<edad>37</edad>
+		<foto>../imagenes/ernesto.PNG</foto>
+	</persona>
+	<persona>
+		<nombre>Salvador</nombre>
+		<apellidos>Martinez</apellidos>
+		<puesto>Master Caddie</puesto>
+		<edad>25</edad>
+		<foto>../imagenes/salva.png</foto>
+	</persona>
+	<persona>
+		<nombre>Javier</nombre>
+		<apellidos>Fuentes</apellidos>
+		<puesto>Greenkeeper</puesto>
+		<edad>52</edad>
+		<foto>../imagenes/jesusjar.png</foto>
+	</persona>
+	<persona>
+		<nombre>Gabriel</nombre>
+		<apellidos>Santos</apellidos>
+		<puesto>Profesor Escuela</puesto>
+		<edad>32</edad>
+		<foto>../imagenes/gabi.png</foto>
+	</persona>
+	<persona>
+		<nombre>Rubén</nombre>
+		<apellidos>Soria</apellidos>
+		<puesto>Asistente en Tienda</puesto>
+		<edad>23</edad>
+		<foto>../imagenes/ruben.png</foto>
+	</persona>
+	<persona>
+		<nombre>Roldan</nombre>
+		<apellidos>Pardo</apellidos>
+		<puesto>Jardinero</puesto>
+		<edad>20</edad>
+		<foto>../imagenes/roland.png</foto>
+	</persona>
+	<persona>
+		<nombre>Juan</nombre>
+		<apellidos>Oliva</apellidos>
+		<puesto>Jardinero</puesto>
+		<edad>31</edad>
+		<foto>../imagenes/juan.png</foto>
+	</persona>
+	<persona>
+		<nombre>Jesús</nombre>
+		<apellidos>Garrido</apellidos>
+		<puesto>Jardinero</puesto>
+		<edad>37</edad>
+		<foto>../imagenes/jesus.png</foto>
+	</persona>
+</equipo>
